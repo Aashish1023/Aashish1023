@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aashish
 - 👀 I’m interested in Coding, Web Developing and Technology
-- 🌱 I’m currently learning laravel full stack and some data analytic projects
+- 🌱 I’m currently learning laravel full stack and some Python based projects
 - 💞️ I’m looking to collaborate on fundamental of website development
 - 📫 How to reach me! you can email me at aashishmaharjan1999@gmail.com
 - ⚡ Fun fact: Write Code for Humans, Not Just Machines
